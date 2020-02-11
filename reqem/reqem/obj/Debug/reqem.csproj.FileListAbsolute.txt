@@ -1,0 +1,7 @@
+C:\Users\Compar Academy\source\repos\reqem\reqem\bin\Debug\reqem.exe.config
+C:\Users\Compar Academy\source\repos\reqem\reqem\bin\Debug\reqem.exe
+C:\Users\Compar Academy\source\repos\reqem\reqem\bin\Debug\reqem.pdb
+C:\Users\Compar Academy\source\repos\reqem\reqem\obj\Debug\reqem.csprojAssemblyReference.cache
+C:\Users\Compar Academy\source\repos\reqem\reqem\obj\Debug\reqem.csproj.CoreCompileInputs.cache
+C:\Users\Compar Academy\source\repos\reqem\reqem\obj\Debug\reqem.exe
+C:\Users\Compar Academy\source\repos\reqem\reqem\obj\Debug\reqem.pdb
